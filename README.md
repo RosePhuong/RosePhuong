@@ -1,0 +1,5 @@
+- :evergreen_tree: Hello there !
+- 🇻🇳I come from VietNam
+- :school: I'm studying in Secondary School
+- 🖥️ Like coding and ⛹️‍♀️
+- Current programming languages are Java and Python
